@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}   
+
+.title10 {
+    display: flex;
+    font-size: 125px;
+    justify-content: center;
+    background:url("https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/News/childrens-health/081616_bullies_THUMB_LARGE.jpg?w=1155&h=1528") ;
+    height: 500px;
+    background-color: lightgray;
+    margin-top: 3px;
+}
+
+.title11 {
+ border: 8px solid black;
+ margin-bottom: 90px;
+}
+
+.title12{
+    display: flex;
+    font-size:  50px;
+    margin-left: 70px;
+}
+
+
+.title13 {
+display: inline-block;
+border: 5px solid black;
+height: 275px;
+width: 500px;
+margin-left: 50px;
+font-size: 28px;
+text-align: center;
+margin-bottom: 100px;
+}
+
+.title14 img {
+    display: inline-block;
+    border: 5px solid black;
+    height: 275px;
+    width: 412px;
+    margin-left:200px;
+    margin-top: 100px;
+}
+
+.title200 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.title15 {
+    display: flex;
+    border: 6px solid black;
+    height: 275px;
+    width: 1000px;
+    font-size: 30px;
+    padding: 23px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+
+
+.title15 img {
+    display: flex;
+    padding: 20px;
+}
+
+
+
+
+
+

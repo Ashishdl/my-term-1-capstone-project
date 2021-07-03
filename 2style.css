@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}   
+
+.title3 {
+    display: flex;
+    background: url("http://thumbs.dreamstime.com/b/grainy-elegant-blue-versatile-simple-solid-color-background-203914251.jpg");
+    height: 500px;
+    width: 1300px;
+    justify-content: center;
+    margin-top: 3px;
+}
+
+
+
+.title4 {
+    display:inline-block;
+    border: 6px solid black;
+    height: 300px;
+    width: 400px;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 100px;
+    background-color: lightgray;
+}
+
+.title6 img {
+    display: inline-block;
+    border: 6px solid black;
+    height: 280px;
+    width: 600px;
+    margin-left: 100px;
+    margin-top: 100px;
+} 
+
+.title5 {
+    border: 8px solid black;
+    margin-top: 90px;
+}
+
+.card1 {
+    border: 6px solid black; 
+    height: 500px  ; 
+    width: 350px; 
+    font-size: 26px;
+    text-align: center;
+    margin-left: 30px;
+}
+
+.card1 img {
+ display: flex;
+ width: 350px;
+}
+
+.card2{
+border: 6px solid black; 
+    height: 500px  ; 
+    width: 350px; 
+    font-size: 26px;
+    text-align: center;
+    margin-left: 30px;
+}
+
+.cards
+
+.card2 img {
+    display: flex;
+    width: 350px;
+   }
+
+.card3{
+border: 6px solid black; 
+    height: 500px  ; 
+    width: 350px; 
+    font-size: 26px;
+    text-align: center;
+    margin-left: 30px;
+}
+
+
+
+    
+.card3 img {
+     display: flex;
+     width: 350px;
+     }
+
+.cards {
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 200px;
+    justify-content: space-evenly;
+}
+
+
+
+
+

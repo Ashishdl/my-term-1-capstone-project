@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    font-family: 'Neucha', cursive;
+}
+
+h1  {
+    display: flex;
+    padding: 150px;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 150px;
+    color: rgb(8, 8, 8);
+}
+
+#all{
+    background:url("https://ggsc.s3.amazonaws.com/images/uploads/What_Can_Schools_Do_to_Prevent_Bullying.jpg") ;
+    background-size: cover;
+    margin-top: 3px;
+}
+
+
+.title {
+ border: 5px solid black;
+ height: 250px;
+ width: 500px;
+ align-items:center ;
+ margin: auto;
+ margin-top: 30px; 
+ margin-bottom: 100px;
+ font-size:32px ;
+ background-color: lightgray;
+ 
+}
+
+.title2 {
+    border:5px solid black;
+    height: 40px;
+    width: 550px;
+    margin:auto;
+    margin-top: 0px;
+    margin-bottom: 70px;
+    font-size: 30px; 
+    text-align: center; 
+    background-color: lightgray; 
+    
+}
+
+a {
+    display: flex;
+    text-decoration: none;
+    color: black;
+    list-style-type:none;
+}
+
+
+
+
+
+
+
+
+
+
+ 	

@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+} 
+
+.title25 {
+    display: flex;
+    font-size: 200px;
+    justify-content: center;
+    margin-top: 3px;
+    height: 400px;
+    background: url("https://images.hdqwalls.com/download/gradient-soft-solid-color-4k-4e-2048x1152.jpg");
+}
+
+.title26 {
+    display: flex;
+    border: 8px solid darkblue;
+}
+
+
+.title27 {
+    display: inline-block;
+    border: 5px solid black;
+    height: 250px;
+    width: 255px;
+    border-radius: 140px;
+    background: url("https://t4.ftcdn.net/jpg/02/73/93/23/240_F_273932344_AiK52bwmI2SQ7viQqXnNVMNJyyO1bSNb.jpg");
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+
+.title28 {
+    display: inline-block;
+    border: 5px solid black;
+    height: 250px;
+    width: 700px;
+    font-size: 40px;
+    margin-left: 60px;
+    margin-bottom:100px;
+    text-align: center;
+}
+
+.title29 {
+    display: inline-block;
+    border: 5px solid black;
+    padding:10px ;
+    width: 900px;
+    font-size: 60px;
+    margin-left: 175px;
+    margin-bottom: 80px;
+}
+
+.title01 {
+    display: flex;
+    border: 5px solid black;
+    background-color: lightgray;
+    height: 200px;
+    width: 570px;
+    margin-left: 370px;
+    border-radius: 300px;
+    font-size: 37px;
+    justify-content: center;
+    text-align: center;
+    padding-top: 65px;
+}
+
+.title30{
+    display: inline-block;
+    margin-left: 200px;
+    margin-bottom:50px;
+    font-size: 150px;
+    text-align: center;
+}

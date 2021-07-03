@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* .title32{
+    display: flex;
+    background-color:purple;
+    height: 80px;
+}
+
+.title33{
+    display: flex;
+    font-size: 100px;
+    background-color: lightskyblue;
+    text-align: center;
+    border: 9px solid black;
+}
+
+.title34{
+    display: flex;
+    background-color: purple;
+    height: 100px;
+}
+
+.title35{
+    display: flex;
+    border: 5px solid black;
+    width: 1000px;
+    height: 150px;
+    font-size: 110px;
+    background-color:lightgray;
+    justify-content: center;
+    color: rgb(37, 37, 37);
+    margin-left: 150px;
+}
+
+.title36{
+    display: flex;
+    background-color: purple;
+    height: 100px;
+} */
+
+.quiz{
+    width: 100vw;
+    height: 50vh;
+    background-color: purple;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.quiz h2{
+    font-size: 40px;
+    background-color: rgb(113, 217, 243);
+    padding: 30px;
+    border-radius: 40px;
+}
+
+.quiz button{
+    padding: 15px  40px;
+    border-radius: 20px;
+    background-color: rgb(238, 238, 238);
+    border: none;
+    font-weight: bolder;
+    transition: all 0.2s ease;
+}
+
+.quiz button:hover{
+    transform: scale(1.15);
+}
+
+
+#list{
+    width: 100vw;
+    padding: 50px 0;
+    /* height: 300px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#list li{
+    font-size: 40px;
+    list-style-type: none;
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: left;
+    /* border-bottom: 2px solid purple; */
+}
+
+#list li input{
+    width:30px;
+    height: 30px;
+}
+
+#list button{
+    margin-top: 60px;
+    padding: 20px 40px;
+    font-weight: bolder;
+    font-size: 15px;
+    border-radius: 30px;
+    border: none;
+    background-color: rgb(113, 217, 243);
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 10px 8px, rgba(0, 0, 0, 0.09) 0px 8px 16px;
+    transition: all  0.2s ease;
+}
+
+#list button:hover{
+    background: rgb(104, 203, 228);
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+}
+
+#endtxt{
+    display: flex;
+    font-size: 55px;
+    margin-top: 40px;
+}
